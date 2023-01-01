@@ -1,0 +1,1 @@
+Esse foi um projeto desenvolvido junto ao professor Bonieky Lacerda na plataforma B7Web. É um projeto 100% responsivo e com os devidos créditos a plataforma que cedeu o template
